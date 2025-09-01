@@ -4,6 +4,11 @@ Este proyecto realiza el **proceso de limpieza y análisis exploratorio de datos
 El objetivo es obtener **conclusiones significativas** a partir de los datos, evaluando tendencias y patrones relevantes.  
 
 ---
+## 🌍 English Summary
+This project performs data cleaning and exploratory data analysis (EDA) on a salary dataset.  
+The objective is to identify significant insights, such as patterns and factors that impact salary differences.  
+
+---
 
 ## 📂 Estructura del Repositorio
 - **Salarios.xlsx** → archivo con los datos crudos.  
@@ -37,6 +42,7 @@ El objetivo es obtener **conclusiones significativas** a partir de los datos, ev
 - **Excel** (fuente de datos)  
 
 ---
+
 
 ## 📣 Autor
 **Miguel Gallego Álvarez**  
